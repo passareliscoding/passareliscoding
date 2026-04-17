@@ -2,6 +2,7 @@
 
 - 📚 Software Engineering student at IFSP
 - 📝 Languages: Portuguese and English
+- 💻 Web Development Intern (Angular) at ClimateApps
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,java,ts)](https://skillicons.dev)
